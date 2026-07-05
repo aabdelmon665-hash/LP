@@ -1,0 +1,15 @@
+
+{
+  "name": "achieve-study-abroad",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "framer-motion": "^11.0.8",
+    "lucide-react": "^0.344.0",
+    "react-hook-form": "^7.51.0",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.1"
+  }
+}
